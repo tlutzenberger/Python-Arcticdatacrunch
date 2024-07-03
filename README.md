@@ -4,7 +4,7 @@ Language: Python
 Lang vers: 3.11.5
 May 18, 2024
 Author: Tom Lutzenberger
-Contact: lynxbot@gmail.com
+Contact: lynxbotbusiness@gmail.com
 
 This program, written in Python 3.11.5, is my first attempt at using python running comparisons on data over time. The program reads, loads, compiles and compares data
 from three different sources and merges them together into a data visualization presentation (chart). Utilizing the calculation tools in common Python libraries,
